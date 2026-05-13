@@ -1,0 +1,8 @@
+export default function Page() {
+  return (
+    <div style={{ background: '#1a1a2e', color: 'white', height: '100vh', display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column' }}>
+      <h1>Smart Tracks is Live</h1>
+      <p>Developed by Smart Ali</p>
+    </div>
+  )
+}
