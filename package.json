@@ -1,4 +1,10 @@
-{
+{ "dependencies": {
+  "framer-motion": "latest",
+  "lucide-react": "latest",
+  "next": "14.0.4",
+  "react": "latest",
+  "react-dom": "latest"
+}
   "name": "nextjs-starter",
   "version": "0.1.0",
   "private": true,
